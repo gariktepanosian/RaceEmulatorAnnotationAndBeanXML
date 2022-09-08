@@ -1,3 +1,3 @@
 # RaceEmulatorAnnotationAndBeanXML
 
-Horse Race Emulator Annotation And Bean XML Garik Tepanosyan
+Horse Race Emulator Annotation And BeanXML Garik Tepanosyan
